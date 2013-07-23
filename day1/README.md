@@ -1,7 +1,7 @@
 Title 
 =====
 
-# Makes a headingg
+# Makes a heading
 
 ## Makes a smaller heading 
 
